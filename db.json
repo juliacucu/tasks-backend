@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "title": "Wash all the dishes",
+      "desc": "Turn-on the dishwasher",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Grocery shopping",
+      "desc": "Onions, lettuce, eggs and milk",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Call Grandma",
+      "desc": "Before 7pm",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Dog walking",
+      "desc": "To the nearest forest",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
